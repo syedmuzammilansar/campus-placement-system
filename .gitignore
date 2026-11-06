@@ -1,0 +1,27 @@
+# Compiled class files
+*.class
+bin/
+target/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Virtual machines and logs
+*.log
+
+# SQLite database files (optional - comment if you want to keep seed data)
+database/*.db-journal
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
